@@ -1,0 +1,10 @@
+table {
+    width: 100%;
+  }
+.mat-header-cell{
+    padding: 20px;
+}
+.mat-cell{
+    padding: 20px;
+    text-align: center;
+}
